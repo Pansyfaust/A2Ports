@@ -1,0 +1,1 @@
+Several ArmA models published under the APL-SA polished and improved for use in ArmA3.
